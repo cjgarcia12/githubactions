@@ -1,0 +1,9 @@
+{
+  "name": "ci-cd-github-pages",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Build the project!'",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "dependencies": {}
+}
